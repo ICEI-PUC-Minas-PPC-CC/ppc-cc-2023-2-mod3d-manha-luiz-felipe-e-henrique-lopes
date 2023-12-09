@@ -19,7 +19,7 @@
 ## Projeto Alien
 
 
-Link para Arquivo no src [aqui]()
+Link para arquivo de vídeo no presentation [aqui]()
 
 ## Projeto Captura de Movimentos com a Webcam
 
