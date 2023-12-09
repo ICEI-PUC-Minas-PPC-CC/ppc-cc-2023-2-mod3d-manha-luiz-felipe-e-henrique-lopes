@@ -6,10 +6,9 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Luiz Felipe Piva
+- Henrique Luiz de Almeida Lopes
+
 
 ## Professor
 
