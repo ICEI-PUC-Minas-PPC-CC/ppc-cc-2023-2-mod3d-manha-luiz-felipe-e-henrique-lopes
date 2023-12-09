@@ -14,5 +14,5 @@
 
 - Will Machado
 
-# Documentação
+# Informações do Projeto
 
