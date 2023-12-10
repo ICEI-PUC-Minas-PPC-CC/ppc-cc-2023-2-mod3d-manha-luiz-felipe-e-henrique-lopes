@@ -26,6 +26,8 @@ Link para arquivo do blender no src [AQUI](https://github.com/ICEI-PUC-Minas-PPC
 
 Link para arquivo de vídeo no presentation [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/presentation/Video%20demonstração%20alien.mpeg)
 
+Link para PDF no presentation [AQUI]()
+
 ## Projeto Captura de Movimentos com a Webcam
 
 Como proposto no tema 2 (opcional), fizemos a primeira opção, "Captura de Movimentos com a Webcam", usamos o aplicativo Nvidia OmniVerse e a extensão Machinima, colocamos um vídeo da internet para fazer a captura dos movimentos. Os vídeos e arquivos estão no repositório, abaixo segue o link para acesso rápido.
