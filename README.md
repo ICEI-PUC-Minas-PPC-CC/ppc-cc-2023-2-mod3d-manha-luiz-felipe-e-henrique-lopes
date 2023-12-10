@@ -24,7 +24,7 @@ Como proposto no tema 1 (principal), fizemos a modelagem de um alien usando o sc
 
 Link para arquivo do blender no src [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/src/Alien.blend)
 
-Link para arquivo de vídeo no presentation [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/presentation/Vídeo%20Demonstração%20Alien.mpeg)
+Link para arquivo de vídeo no presentation [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/presentation/Video%20demonstração%20alien.mpeg)
 
 ## Projeto Captura de Movimentos com a Webcam
 
