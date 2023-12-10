@@ -30,7 +30,7 @@ Link para arquivo de vídeo no presentation [AQUI](https://github.com/ICEI-PUC-M
 
 Como proposto no tema 2 (opcional), fizemos a primeira opção, "Captura de Movimentos com a Webcam", usamos o aplicativo Nvidia OmniVerse e a extensão Machinima, colocamos um vídeo da internet para fazer a captura dos movimentos. Os vídeos e arquivos estão no repositório, abaixo segue o link para acesso rápido.
 
-Link para arquivo do Nvidia OmniVerse no src [AQUI]()
+Link para arquivo do Nvidia OmniVerse no src [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/src/Skeleton_Take_02.usd)
 
 Link para arquivo de vídeo no presentation [AQUI]()
 
