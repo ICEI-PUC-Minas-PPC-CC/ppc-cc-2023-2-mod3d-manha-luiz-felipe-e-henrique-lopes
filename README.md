@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Trabalho Modelo 3D - Sculpiting + EXTRA
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem 3D`
@@ -26,7 +26,7 @@ Link para arquivo do blender no src [AQUI](https://github.com/ICEI-PUC-Minas-PPC
 
 Link para arquivo de vídeo no presentation [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/presentation/Video%20demonstração%20alien.mpeg)
 
-Link para PDF no presentation [AQUI]()
+Link para PDF no presentation [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/presentation/Demonstração%20alien%20PDF.pdf)
 
 ## Projeto Captura de Movimentos com a Webcam
 
