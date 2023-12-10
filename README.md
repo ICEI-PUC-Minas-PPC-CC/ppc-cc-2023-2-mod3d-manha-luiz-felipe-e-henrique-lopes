@@ -18,7 +18,7 @@
 
 ## Projeto Alien
 
-O projeto 
+Como proposto no tema 1 (principal), fizemos a modelagem de um alien usando o sculpting para modelar usando uma ico-esfera, utilizamos HDR para a renderização e criamos nossa própria textura. 
 
 Link para arquivo do blender no src [AQUI](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-manha-luiz-felipe-e-henrique-lopes/blob/main/src/Alien.blend)
 
